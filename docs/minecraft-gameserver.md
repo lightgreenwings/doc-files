@@ -1,7 +1,7 @@
 ---
 id: minecraft-gameserver
 title: Minecraft Gameserver
-sidebar_label: Minecraft
+sidebar_label: Allgemeines
 ---
 Hier findest du alles wichtige, was du über deinen Minecraft Gameserver wissen musst.
 
@@ -20,3 +20,4 @@ Melde dich in deinem Gameserver Panel Account an und klicke auf den Namen deines
 Dort gibst du in der Konsole `op SPIELERNAME` ein und drückst zum Absenden ENTER.
 
 Du bist jetzt Ingame Admin und siehst mit `/help` alle Befehle.
+> [!] Eine allgemeine Übersicht über einige dieser Befehle kannst du unter dem Punkt [Befehle](minecraft-gameserver-befehle) finden.
