@@ -1,7 +1,7 @@
 ---
 id: rust-gameserver
 title: Rust Gameserver
-sidebar_label: Rust
+sidebar_label: Allgemeines
 ---
 Hier findest du alles wichtige, was du über deinen Rust Gameserver wissen musst.
 
