@@ -7,7 +7,7 @@ Hier erfährst du, wie du Plugins auf deinem Minecraftserver installierst.
 
 
 ## Information
-Plugins sind Erweiterungen für deinen Minecraft Server um das Spielerlebnis zu vervielfältigen. Bitte gehe sicher, dass du zuvor [Spigot auf deinem Server installiert](minecraft-gameserver-spigot-installeren) hast.
+Plugins sind Erweiterungen für deinen Minecraft Server um das Spielerlebnis zu vervielfältigen. Bitte gehe sicher, dass du zuvor [Spigot auf deinem Server installiert](minecraft-gameserver-spigot-installieren) hast.
 
 ### 🐧 DeinServerHost PluginManager
 

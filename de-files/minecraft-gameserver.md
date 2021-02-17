@@ -1,7 +1,7 @@
 ---
 id: minecraft-gameserver
 title: Minecraft Gameserver
-sidebar_label: Minecraft
+sidebar_label: Allgemeines
 ---
 Hier findest du alles wichtige, was du über deinen Minecraft Gameserver wissen musst.
 
